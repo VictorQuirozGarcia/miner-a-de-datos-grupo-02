@@ -12,3 +12,8 @@ Actividades de la Fase 1
 [ejercicios de limpieza de datos](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ej_Limpieza_Equipo5.ipynb)
 
 [Primer Avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Avance1_PIA_Equipo5.ipynb)
+
+## Fase II
+
+[tecnica de mineria](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/upload/main)
+
