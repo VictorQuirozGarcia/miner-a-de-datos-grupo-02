@@ -17,3 +17,6 @@ Actividades de la Fase 1
 
 [tecnica de mineria](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/upload/main)
 
+[ejemplos de la tecnica de mineria: clasificacion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20clasificacion.ipynb)
+[ejemplos de la tecnica de mineria: regresion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20regresion.ipynb)
+
