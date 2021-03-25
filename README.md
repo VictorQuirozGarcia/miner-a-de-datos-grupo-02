@@ -24,5 +24,5 @@ Actividades de la Fase 1
 
 [calificacion del Examen](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Calificacion_Arboles-de-Decision_Equipo-5.pdf)
 
-[mapa mental 2](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/upload/main)
+[mapa mental 2](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Mapa%20Mental_2_1741667.pdf)
 
