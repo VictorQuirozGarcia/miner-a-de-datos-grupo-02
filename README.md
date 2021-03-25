@@ -19,7 +19,10 @@ Actividades de la Fase 1
 
 
 [ejemplos de la tecnica de mineria: clasificacion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20clasificacion.ipynb)
+
 [ejemplos de la tecnica de mineria: regresion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20regresion.ipynb)
 
 [calificacion del Examen](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Calificacion_Arboles-de-Decision_Equipo-5.pdf)
+
+[mapa mental 2](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/upload/main)
 
