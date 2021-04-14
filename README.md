@@ -26,3 +26,5 @@ Actividades de la Fase 1
 
 [mapa mental 2](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Mapa%20Mental_2_1741667.pdf)
 
+[Avance 2](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5.ipynb)
+
