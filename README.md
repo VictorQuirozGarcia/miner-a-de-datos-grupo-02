@@ -30,3 +30,4 @@ Actividades de la Fase 1
 
 [Segundo Avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5.ipynb)
 
+[Segundo Avance del PIA (corregida)](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5%2C%20correcion.ipynb)
