@@ -34,4 +34,4 @@ Actividades de la Fase 1
 
 ## Fase III
 
-[imagenes del proyect](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/tree/main/Imagenes%20proyecto)
+[Imagenes del proyecto](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/tree/main/Imagenes%20proyecto)
