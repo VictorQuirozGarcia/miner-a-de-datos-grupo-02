@@ -38,4 +38,4 @@ Actividades de la Fase 1
 
 [Poster](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Poster%20(enfermedades%20cardiacas).pdf)
 
-[proyecto final](https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/Proyecto%20Final%20(2).ipynb)
+[Proyecto final](https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/Proyecto%20Final%20(2).ipynb)
